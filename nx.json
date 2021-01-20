@@ -17,6 +17,7 @@
   },
   "projects": {
     "core": { "tags": [] },
-    "core-e2e": { "tags": [], "implicitDependencies": ["core"] }
+    "core-e2e": { "tags": [], "implicitDependencies": ["core"] },
+    "ui": { "tags": [] }
   }
 }
